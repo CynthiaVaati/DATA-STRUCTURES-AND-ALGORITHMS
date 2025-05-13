@@ -9,16 +9,4 @@
 **Instructor:** [Dr Mulang Onando]  
 **Semester:** [2.2]
 
-## Repository Structure
-This repository contains the following directories:
 
-- **LABS**: Contains lab exercises and assignments.
-- **QUIZES**: Contains quiz solutions.
-
-
-
-
-
-## Contact
-For any questions or issues, 
-please contact: cynthia.mbithe@students.jkuat.ac.ke
